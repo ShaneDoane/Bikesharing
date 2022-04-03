@@ -22,7 +22,7 @@ Nearly all trips are under 1 hour, with most under 20 minutes
 
 ![image](https://user-images.githubusercontent.com/93338132/161447557-915db35f-f20d-48cc-8b6a-f5b97b32b987.png)
 
-This is consistent between genders.
+This is consistent between genders. Blue is Male, pink is Female, gray is Unknown.
 
 ![image](https://user-images.githubusercontent.com/93338132/161447533-79528309-3301-4071-a849-b1e659249bb8.png)
 
