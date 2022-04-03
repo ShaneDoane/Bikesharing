@@ -22,6 +22,11 @@ Nearly all trips are under 1 hour, with most under 20 minutes
 
 ![image](https://user-images.githubusercontent.com/93338132/161446891-b9d2d63a-c1ef-4f20-a9d1-4c121a3aec62.png)
 
+This is consistent between genders.
+
+![image](https://user-images.githubusercontent.com/93338132/161447533-79528309-3301-4071-a849-b1e659249bb8.png)
+
+
 Weekday trips are concentrated during rush hors and weekend trips are spread throughout the day
 
 ![image](https://user-images.githubusercontent.com/93338132/161447018-f9ab8e57-ddaf-4370-ab52-6af8d0847182.png)
@@ -33,6 +38,8 @@ Gender does not seem to affect trip timing as much as trip volume.
 Trips are concentrated in Manhattan (New York County), especially south of Central Park, which is the densest area of New York. Brooklyn (Kings County) also sees some trip density in its most populated neighborhoods
 
 ![image](https://user-images.githubusercontent.com/93338132/161447178-c59dfdfa-acc1-411b-b918-629aab43567b.png)
+
+
 
 ### Additional Considerations
 New York City is one of the top tourist destinations in the world - Des Moines is not. Therefore, it is important to better understand the affect of tourism on the Citi Bike data so we can adapt our strategy to serve a customer base with different needs. 
