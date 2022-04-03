@@ -39,7 +39,7 @@ Trips are concentrated in Manhattan (New York County), especially south of Centr
 ![image](https://user-images.githubusercontent.com/93338132/161447178-c59dfdfa-acc1-411b-b918-629aab43567b.png)
 
 ### Additional Considerations
-New York City is one of the top tourist destinations in the world - Des Moines is not. Therefore, it is important to better understand the affect of tourism on the Citi Bike data so we can adapt our strategy to serve a customer base with different needs. 
+New York City is one of the top tourist destinations in the world - Des Moines is not. Therefore, it is important to better understand the effect of tourism on the Citi Bike data so we can adapt our strategy to serve a customer base with different needs. Guest customers are more likely to be tourists, inferred from their trips starting near major attractions more than subscribers and from their trip timing, outlined below. Not all guest customers are tourists, but we can make some directional judgements based on the below.
 
 Guest trips are concentrated on weekends
 
@@ -48,3 +48,8 @@ Guest trips are concentrated on weekends
 Subscriber trips are concentrated on weekdays, but there is considerable weekend volume
 
 ![image](https://user-images.githubusercontent.com/93338132/161447366-8e8fded0-b635-4d03-81b4-4d0f4002dfad.png)
+
+### Summary 
+Overall, the NYC Citi Bike business thrives in Manhattan and the densest parts of neighboring Brooklyn. Both of these areas are wealthier and more densely populated than other parts of the city. Most users are male and most users are subscribing, repeat customers. Trips are concentrated in dense areas and near major points of interest. 
+
+To adapt this business for Des Moines, we can make assumptions based on these findings. We should concentrate bikes in the Downtown area and near major destinations like the river, Capitol or the Botanical Garden. 
